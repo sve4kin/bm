@@ -1,0 +1,18 @@
+.profile_box_res .aboutmy::before {
+	content: "О себе:";
+}
+.profile_box_res .aboutyou::before {
+	content: "Хочу найти:";
+}
+.profile_box_res .meet_m::before {
+	content: "Познакомлюсь с мужчиной";
+}
+.profile_box_res .meet_b::before {
+	content: "Познакомлюсь с парнем";
+}
+.profile_box_res .meet_w::before {
+	content: "Познакомлюсь с женщиной";
+}
+.profile_box_res .meet_g::before {
+	content: "Познакомлюсь с девушкой";
+}

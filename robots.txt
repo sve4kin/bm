@@ -1,0 +1,17 @@
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: *
+Disallow: */search/
+Disallow: */login
+Disallow: */logout
+Disallow: */register
+Disallow: */rules
+Disallow: */messages
+Disallow: */usermessages
+Disallow: */noaccess
+Disallow: */views
+Disallow: */likes
+Disallow: */imageview.php
+Allow: /
+Host: https://bimeon.ru
